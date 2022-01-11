@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 
+
+<br />
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinseungmin-kor&show_icons=true&theme=tokyonight)
